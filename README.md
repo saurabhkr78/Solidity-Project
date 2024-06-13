@@ -12,7 +12,7 @@ SaurabhCoin is a digital currency built on the Ethereum blockchain. my aims was 
 ## Getting Started
 
 ### Screenshot
-![SaurabhCoin Screenshot](image.png)
+![SaurabhToken Screenshot](image.png)
 
 ### Installing
 
@@ -43,4 +43,4 @@ X:@saurabhkr78
 Linkdin:https://www.linkedin.com/in/saurabhkr78/
 
 ## License
-This project is licensed under the MIT License
+No license is required for this project.
